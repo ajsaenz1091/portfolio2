@@ -1,0 +1,30 @@
+:root{
+    --mainColor: linear-gradient(135deg,#050d7d,#d505ff);
+    --secondaryColor:#000000;
+
+    --borderColor:#c1c1c1;
+
+    --mainText:white;
+    --secondaryText:#e6bf13;
+    --highlightedText:#b400ff;
+
+    --themeDotBorder:#24292e;
+
+    --previewBg:rgb(161 77 131 / 80%);
+    --previewShadow:#6b057d;
+
+    --btnColor:black;
+}
+
+.greeting-wrapper span {
+    color: #f148c5;
+}
+
+#preview p{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: var(--highlightedText);
+}

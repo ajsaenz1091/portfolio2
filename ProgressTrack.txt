@@ -1,0 +1,4 @@
+fix about me section
+finish css styling
+add content in project section
+deploy

@@ -1,0 +1,34 @@
+:root{
+    --mainColor: linear-gradient(135deg,#ffd507,#665c16);
+    --secondaryColor:rgb(26, 17, 17);
+
+    --borderColor:#c1c1c1;
+
+    --mainText:white;
+    --secondaryText:#e6bf13;
+    --highlightedText:#fff900;
+
+    --themeDotBorder:#24292e;
+
+    --previewBg:rgb(255 246 218 / 66%   );
+    --previewShadow:#e6bf13;
+
+    --btnColor:black;
+}
+
+.greeting-wrapper span {
+    color:rgb(49, 28, 28);
+}
+
+.post-preview{
+    background-color: var(--secondaryColor);
+}
+
+#preview p{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: var(--highlightedText);
+}
